@@ -1,1 +1,3 @@
+Self-taught programmer & graphic designer passionate about creating visually driven, open-source applications and experiences. I specialize in front-end application design and enjoy blending creativity with code to build games, novelty software, and unique user interfaces.
 
+HeadGlitch is my personal brand and creative outlet for experimenting with innovative ideas, whether it's crafting interactive designs, developing compelling games, or exploring new ways to engage through software. I'm always open to collaboration, feedback, or just connecting with like-minded creators. Let’s build something awesome!
