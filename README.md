@@ -1,7 +1,7 @@
 ![Profile Picture](./brandkit/render/banners/HeadGlitch-Github-Banner-short(Dark).png)
 # About HeadGlitch Software
 
-Hey there! I'm a **self-taught programmer** and **graphic designer** with a passion for creating visually driven, open-source applications. My focus is on **front-end application design**, and I love blending creativity with code to build everything from games to novelty software and unique user interfaces.  
+I'm a **self-taught programmer** and **graphic designer** with a passion for creating visually driven, open-source applications. My focus is on **front-end application design**, and I love blending creativity with code to build everything from games to novelty software and unique user interfaces.  
 
 HeadGlitch is my personal brand and creative playground, where I experiment with innovative ideas. Whether I'm crafting interactive designs, building compelling games, or exploring new ways to engage through software, I’m always looking to push boundaries.  
 
