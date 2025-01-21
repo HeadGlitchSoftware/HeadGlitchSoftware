@@ -1,4 +1,4 @@
-![Profile Picture](./brandkit/render/banners/HeadGlitch-Github-Banner-Short(Dark).png)
+![Profile Picture](./brandkit/render/banners/HeadGlitch-Github-Banner-short(Dark).png)
 # About HeadGlitch Software
 
 Hey there! I'm a **self-taught programmer** and **graphic designer** with a passion for creating visually driven, open-source applications. My focus is on **front-end application design**, and I love blending creativity with code to build everything from games to novelty software and unique user interfaces.  
