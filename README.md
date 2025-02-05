@@ -1,5 +1,5 @@
 ![Profile Picture](./brandkit/render/banners/HeadGlitch-Github-Banner-short(Dark).png)
-# About HeadGlitchSoftware
+# About HeadGlitch
 **HeadGlitch** is my personal brand and creative playground, where I experiment with innovative ideas. Each project is designed to be visually striking, engaging, and thoughtfully executed, blending function and aesthetic into a seamless whole. HeadGlitch celebrates the unexpected, delivering work that’s not afraid to be weird, while always maintaining a focus on quality and originality.
 
 ### About the Author
